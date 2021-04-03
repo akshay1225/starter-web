@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Akshay Shah akshay@gamil.com @awesomeakhi
 
 # THANKS
 
