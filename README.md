@@ -21,3 +21,7 @@ Ths is a simple web project, deployment can be on any server or even local file 
 ### Copyright
 
 2014 Git.Training.
+
+### Copyrights
+
+2014 Git.Trainings.
